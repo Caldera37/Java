@@ -50,7 +50,7 @@ public class Duck {
         this.name = name;
     }
     
-    public void setSwimming(boolean swimming) {
+    public void setSwimming(Boolean swimming) {
         this.swimming = swimming;
     }
 }
